@@ -1,7 +1,13 @@
 ## Olá, eu sou o João Victor 👋
 ### Amante da tecnologia e fascinado por aprender novas habilidades.
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVSC99&layout=compact)](https://github.com/JVSC99/github-readme-stats) 
+
 Conhecimentos básicos:
+
+
 
 <div style="display: inline_block">
   <img align="center" alt="reactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -9,6 +15,8 @@ Conhecimentos básicos:
   <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img align="center" alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  
 </div><br/>
 
 Conhecimentos médios e avançados:
@@ -27,4 +35,8 @@ Conhecimentos médios e avançados:
   
 </div><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVSC99&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVSC99&show_icons=true&theme=cobalt) 
+
+### Redes Sociais
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3ovscarvalho/)
